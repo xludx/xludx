@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xludx)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![particl-market](https://github-readme-stats.vercel.app/api/pin/?username=xludx)](https://github.com/anuraghazra/github-readme-stats)
+[![particl-market](https://github-readme-stats.vercel.app/api/pin/?username=xludx&repo=particl-market)](https://github.com/anuraghazra/github-readme-stats)
 
 api/pin?username=anuraghazra&repo=github-readme-stats
 
